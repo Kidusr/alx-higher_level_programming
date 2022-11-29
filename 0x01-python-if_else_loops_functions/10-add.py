@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Author - Kidus Teshome 
+# Author - Kidus Teshome
 
 def add(a, b):
 
